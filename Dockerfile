@@ -1,1 +1,1 @@
-From b3log/siyuan:v2.9.6
+From b3log/siyuan:v2.9.8
